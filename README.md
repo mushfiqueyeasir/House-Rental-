@@ -11,15 +11,15 @@
         sides agreed all the house owner has to do is go to his post and make it taken. The system won’t show it to the
         other user any more.
     </p>
-    <h4>Functional and non-functional requirement:</h4>
-    <h3>Functional: </h3>
+    <h3>Functional and non-functional requirement:</h3>
+    <h4>Functional: </h4>
     <ul>
         <li>Password protected user account.</li>
         <li>Password encryption</li>
         <li>Search option with desired location</li>
         <li>Add post delete, modify option</li>
     </ul>
-    <h3>Functional: </h3>
+    <h4>Functional: </h4>
     <ul>
         <li>Search the available house in shortest time possible.</li>
         <li>Password protected account</li>
